@@ -1,0 +1,14 @@
+.sliderrow {
+	/* width: 96% !important; */
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.sliderrow .col {
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+.sliderrow img {
+	width: 100vw;
+}
