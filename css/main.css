@@ -12,3 +12,44 @@
 .sliderrow img {
 	width: 100vw;
 }
+
+.services-wrapper {
+	text-align: center;
+}
+
+.services-wrapper img {
+	height: 120px !important;
+	width: 120px !important;
+}
+
+.address {
+	padding-top: 15px;
+	float: left;
+	margin-right: 70px;
+	line-height: 15px;
+}
+
+.address2 {
+	line-height: 10px;
+}
+
+.address a, .address2 a {
+	color: #FFF !important;
+}
+
+.hrs {
+	clear: both;
+	margin-top: 60px;
+}
+
+#services {
+	background: #fff url(../images/patterns/grey.png) !important;
+}
+
+.singleser {
+	margin-top: 20px;
+}
+
+.copyright li {
+	/* font-size: 12px !important; */
+}
